@@ -21,28 +21,30 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 ### ˎˊ˗ Kaoru-Only  
 `Color: discord.Color.from_rgb(245, 115, 160)`  
 - [x] `hi` – Kaoru says hi~  
-- [ ] `simp` – Kaoru simps for someone  
-- [ ] `gremlin` – Unleashes gremlin energy  
-- [ ] `stare` – 👀 staring into your soul  
-- [ ] `explode` – Kaoru *goes boom*  
+- [x] `simp` – Kaoru simps for someone  
+- [x] `gremlin` – Unleashes gremlin energy  
+- [x] `stare` – 👀 staring into your soul  
+- [x] `explode` – Kaoru *goes boom*
+- [x] `emotes` - shows Kaorus emotes (for testing)
+- [x] `aura` - show how the aura system works
 
 ---
 
 ### ˎˊ˗ Feelings
 `Color: discord.Color.from_rgb(255, 228, 237)`  
 - [x] `feels` - Kaoru asks how you feel
-- [ ] `sus` – you look suspicious
+- [x] `sus` – you look suspicious
 - [x] `vibe` - you vibe
-- [ ] `blush` – you blush
-- [ ] `confused` –  heeeeh?
-- [ ] `nap` – you nap zzzZZZZZ
-- [ ] `bake` – you bake a cake for Kaoru, she loves sweets!
-- [ ] `read` – you read....hopefully no one annoys you
-- [ ] `game` – time to hop on
-- [ ] `rage` – spiderman in the backline
-- [ ] `angry` – angy
-- [ ] `sad` – you are sad, hopefully Senpai hugs you
-- [ ] `happy` – you are happy, did Senpai text you?
+- [x] `blush` – you blush
+- [x] `confused` –  heeeeh?
+- [x] `nap` – you nap zzzZZZZZ
+- [x] `bake` – you bake a cake for Kaoru, she loves sweets!
+- [x] `read` – you read....hopefully no one annoys you
+- [x] `game` – time to hop on
+- [x] `rage` – spiderman in the backline
+- [x] `angry` – angy
+- [x] `sad` – you are sad, hopefully Senpai hugs you
+- [x] `happy` – you are happy, did Senpai text you?
 
 ---
 
@@ -57,32 +59,30 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 - [ ] `bad @user` – call user a bad girl/boy  
 - [ ] `f @user` – f in chat
 - [ ] `bonk @user` –  bonk @user
-- [ ] `stare @user` – stare at @user with shock
-- [ ] `gremlin @user` – 
+- [x] `stare @user` – stare at @user with shock
+- [x] `gremlin @user` – 
 - [ ] `pat @user` – pat @user
 - [ ] `thank @user` – thank @user
 - [ ] `coffee @user` – gift @user a coffee
 - [ ] `snuggle @user` – snuggle with @user
 - [ ] `hug @user` – hug @user
 - [ ] `adore @user` – adore @user
-- [ ] `sneeze` - sneeze...better say bless you
+- [x] `sneeze` - sneeze...better say bless you
 
 
 ---
 
 ### ˎˊ˗ Kaoru to User  
 `Color: discord.Color.from_rgb(215, 60, 140)`  
-- [ ] `dream` – Kaoru tells you a dreamy quote
-- [ ] `fortune` – Kaoru looks into your future
+- [x] `dream` – Kaoru tells you about her dream
+- [x] `advice` – Kaoru gives you an advice...like a fortune cookie
+- [x] `quote` - Kaoru tells you a quote from someone famouse
 - [ ] `secret` – Kaoru tells you a secret
 - [ ] `bless` – Kaoru blesses you with good vibes
+- [ ] `song`- Kaoru gives you a Song based on the Vibe u want
 
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
-### ˎˊ˗ quotes
-- What it does: Sends a random quote every day at a specific time, or on command.
-  Skills learned: Working with APIs (like ZenQuotes or Quotable), scheduling tasks.
-  
 ### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
