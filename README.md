@@ -52,22 +52,23 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 `Color: discord.Color.from_rgb(255, 160, 186)`  
 - [x] `kiss @user` –  kiss @user
 - [x] `love @user` – tell @user you love them
-- [ ] `dance @user` – dance with @user
-- [ ] `vibe @user` – vibe with @user
-- [ ] `yummy @user` –  eat/cook with @user
-- [ ] `punch @user` – punch @user
-- [ ] `bad @user` – call user a bad girl/boy  
-- [ ] `f @user` – f in chat
-- [ ] `bonk @user` –  bonk @user
+- [x] `dance @user` – dance with @user
+- [x] `nomnom @user` –  eat with @user
+- [x] `punch @user` – punch @user
+- [x] `bad @user` – call user a bad girl/boy  
+- [x] `f @user` – f in chat
+- [x] `bonk @user` –  bonk @user
 - [x] `stare @user` – stare at @user with shock
 - [x] `gremlin @user` – 
-- [ ] `pat @user` – pat @user
-- [ ] `thank @user` – thank @user
-- [ ] `coffee @user` – gift @user a coffee
-- [ ] `snuggle @user` – snuggle with @user
-- [ ] `hug @user` – hug @user
-- [ ] `adore @user` – adore @user
+- [x] `pat @user` – pat @user
+- [x] `thank @user` – thank @user
+- [x] `coffee @user` – gift @user a coffee
+- [x] `snuggle @user` – snuggle with @user
+- [x] `hug @user` – hug @user
+- [x] `adore @user` – adore @user
 - [x] `sneeze` - sneeze...better say bless you
+- [x] `crush @user` – simp for @user
+- [x] `glare @user` - stare at @user
 
 
 ---
