@@ -104,7 +104,7 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 - [Picture Libary](https://waifu.pics/)
 
 ---
-## ★ This Repo will not include any actual code, bc of savety reasons. This Repo is only for informations about the bot to be found.
+> ★ This Repo will not include any actual code, bc of savety reasons. This Repo is only for informations about the bot to be found.
 ---
 ## ──★ ˙🍓 ̟ !! Kaoru’s About Me
 > _"Hi hi~ 🌸 
