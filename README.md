@@ -18,7 +18,7 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 
 ---
 
-### ˎˊ˗ Kaoru-Only  
+### ˎˊ˗ Kaoru Only  
 `Color: discord.Color.from_rgb(245, 115, 160)`  
 - [x] `hi` – Kaoru says hi~  
 - [x] `simp` – Kaoru simps for someone  
@@ -48,7 +48,7 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 
 ---
 
-### ˎˊ˗ User-to-User Interactions  
+### ˎˊ˗ User to User Interactions  
 `Color: discord.Color.from_rgb(255, 160, 186)`  
 - [x] `kiss @user` –  kiss @user
 - [x] `love @user` – tell @user you love them
@@ -93,6 +93,50 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 - What it does: Greets users, responds to simple messages like "how are you?" or "tell me a joke".
 - Skills learned: Handling messages, basic logic.
 - Bonus: Use a free joke API to fetch random jokes (https://official-joke-api.appspot.com)
+
+### ˎˊ˗ Mystery Box 
+- Create a mystery box that offers users an item, gift, or funny reward at random. 
+- This can be something like
+  * virtual items
+  * titles (roles that get show on the side)
+  * special roles (they get automatically) 
+  * virtual pets(?)
+  * inside jokes
+- Example Rewards:
+  * "Congratulations! You've unlocked a limited-time badge: 'Professional Procrastinator.'"
+
+### ˎˊ˗ Love Letters
+- Send a random “love letter” from the bot to a user or a group.
+- You can either make it dramatic, funny, or even embarrassing.
+- Example Love Letters:
+  * "Dearest {user}, your presence lights up the room brighter than a million stars. I shall never forget our first taco Tuesday together."
+  * "Roses are red, violets are blue, I can't stop thinking about the sandwich we shared last Tuesday. Your sandwich sharing skills are legendary."
+
+### ˎˊ˗ Random Question
+- Ask users a random fun or deep question.
+- It could be lighthearted or introspective.
+- Let them respond and chat about it.
+- Example Questions:
+  * "If you could have any superpower for one day, what would it be?"
+  * "What’s the most ridiculous thing you’ve ever believed as a kid?"
+
+### ˎˊ˗ Would you rather
+- This can be a hilarious and engaging command.
+- Give users a “would you rather” question and let them pick an option.
+- You can also make the choices fun, outrageous, or absurd.
+- Example Questions:
+  * "Would you rather fight 100 duck-sized horses or one horse-sized duck?"
+  * "Would you rather always be 10 minutes late or always be 20 minutes early?"
+
+### ˎˊ˗ Truth or Dare
+- This command could be a fun icebreaker!
+- The bot asks users to choose "truth" or "dare," then generates a random question or challenge for them. (clickabel truth and dare)
+- Example Truths:
+  * "What’s the most embarrassing thing you’ve done in public?"
+  * "Tell us a secret you’ve never told anyone."
+- Example Dares:
+  * "Sing a song in VC!"
+  * "Share a meme in the chat!"
 
 ## ⋆.˚🦋༘⋆ Links & Resources
 
