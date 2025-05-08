@@ -6,6 +6,13 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 
 > _"Let’s make your server a little softer, a little sillier, and a whole lot cuter."_  
 > — Kaoru ૮₍｡'ᴖ ˔ ᴖ`｡₎ა
+>
+
+Add Kaoru to your server [now](https://discord.com/oauth2/authorize?client_id=1364229924923375667&permissions=8&integration_type=0&scope=bot)! ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+
+---
+
+> ★ This Repo will not include any actual code, bc of savety reasons. This Repo is only for informations about the bot to be found.
 
 ---
 
@@ -23,7 +30,7 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 - [x] `hi` – Kaoru says hi~  
 - [x] `simp` – Kaoru simps for someone  
 - [x] `gremlin` – Unleashes gremlin energy  
-- [x] `stare` – 👀 staring into your soul  
+- [x] `stare` – staring into your soul  
 - [x] `explode` – Kaoru *goes boom*
 - [x] `emotes` - shows Kaorus emotes (for testing)
 - [x] `aura` - show how the aura system works
@@ -80,7 +87,7 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 - [x] `quote` - Kaoru tells you a quote from someone famouse
 - [x] `gossip` – @ up to 5 people to hear some gossip Kaoru picked up!
 - [ ] `bless` – Kaoru blesses you with good vibes
-- [ ] `song`- Kaoru gives you a Song based on the Vibe u want
+- [ ] `song`- Kaoru gives you a song based on the vibe u want
 
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
@@ -138,6 +145,12 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
   * "Sing a song in VC!"
   * "Share a meme in the chat!"
 
+## ⋆.ೃ࿔🌸*:･ Questions and Support
+
+If you have any questions, bugs or ideas feel free to contact me on discord:
+
+-> shiny_shark
+
 ## ⋆.˚🦋༘⋆ Links & Resources
 
 - [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
@@ -147,14 +160,3 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 - [Discord Bot Git](https://github.com/Rapptz/discord.py/blob/master/examples/new_member.py)
 - [Discordbot Git](https://github.com/Rapptz/discord.py)
 - [Picture Libary](https://waifu.pics/)
-
----
-> ★ This Repo will not include any actual code, bc of savety reasons. This Repo is only for informations about the bot to be found.
----
-## ──★ ˙🍓 ̟ !! Kaoru’s About Me
-> _"Hi hi~ 🌸 
-> I'm **Kaoru**, your sweet and sparkly companion ( ˶ˆᗜˆ˵ )  
-> I’m here to bring cozy vibes, gentle reminders, and maybe… share a slice of cake with you *hihi*  
-> Let’s make your server a little softer, a little sillier, and a whole lot cuter"🍥_  
->  
-> _type `!help` to see what I can do_ 🌷͙֒
