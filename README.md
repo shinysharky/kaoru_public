@@ -153,12 +153,10 @@ If you have any questions, bugs or ideas feel free to contact me on discord:
 
 ## ⋆.˚🦋༘⋆ Links & Resources
 
-- [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
-- [Python 3.11 Docs](https://docs.python.org/3.11/)
 - [Tenor GIF API](https://tenor.com/gifapi/documentation)
-- [YouTube Tutorial](https://www.youtube.com/watch?v=2k9x0s3awss)
-- [Discord Bot Git](https://github.com/Rapptz/discord.py/blob/master/examples/new_member.py)
-- [Discordbot Git](https://github.com/Rapptz/discord.py)
 - [Advice API](https://api.adviceslip.com/advice)
 - [Quote API](https://zenquotes.io/api/random)
+- [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
+- [Python 3.11 Docs](https://docs.python.org/3.11/)
+- [Discord Bot Git](https://github.com/Rapptz/discord.py)
 - GIfs and Pictures are usually from Pinterest, I do not own any of them and credits go to the creators !
