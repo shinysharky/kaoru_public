@@ -93,12 +93,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
 
-### ˎˊ˗ Love Letters
-- Send a random “love letter” from the bot to a user or a group.
-- You can either make it dramatic, funny, or even embarrassing.
-- Example Love Letters:
-  * "Dearest {user}, your presence lights up the room brighter than a million stars. I shall never forget our first taco Tuesday together."
-  * "Roses are red, violets are blue, I can't stop thinking about the sandwich we shared last Tuesday. Your sandwich sharing skills are legendary."
 ### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
