@@ -78,7 +78,7 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 - [x] `dream` – Kaoru tells you about her dream
 - [x] `advice` – Kaoru gives you an advice...like a fortune cookie
 - [x] `quote` - Kaoru tells you a quote from someone famouse
-- [ ] `secret` – Kaoru tells you a secret
+- [x] `gossip` – @ up to 5 people to hear some gossip Kaoru picked up!
 - [ ] `bless` – Kaoru blesses you with good vibes
 - [ ] `song`- Kaoru gives you a Song based on the Vibe u want
 
