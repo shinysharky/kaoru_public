@@ -159,4 +159,6 @@ If you have any questions, bugs or ideas feel free to contact me on discord:
 - [YouTube Tutorial](https://www.youtube.com/watch?v=2k9x0s3awss)
 - [Discord Bot Git](https://github.com/Rapptz/discord.py/blob/master/examples/new_member.py)
 - [Discordbot Git](https://github.com/Rapptz/discord.py)
-- [Picture Libary](https://waifu.pics/)
+- [Advice API](https://api.adviceslip.com/advice)
+- [Quote API](https://zenquotes.io/api/random)
+- GIfs and Pictures are usually from Pinterest, I do not own any of them and credits go to the creators !
