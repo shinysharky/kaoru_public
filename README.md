@@ -8,7 +8,7 @@ She spreads cozy vibes, gentle sass, and heartfelt cuteness into every corner of
 > — Kaoru ૮₍｡'ᴖ ˔ ᴖ`｡₎ა
 >
 
-Add Kaoru to your server [now](https://discord.com/oauth2/authorize?client_id=1364229924923375667&permissions=8&integration_type=0&scope=bot)! ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_id=1364229924923375667&permissions=8&integration_type=0&scope=bot)! ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 
 ---
 
