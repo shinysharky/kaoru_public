@@ -76,6 +76,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `sneeze` - sneeze...better say bless you
 - [x] `crush @user` – simp for @user
 - [x] `glare @user` - stare at @user
+- [x] `letter @user` - send a love letter to @user, write love, cute, funny, embarrassing or dramatic after the @user to change the type ("!letter @senpai cute")
 
 
 ---
@@ -86,11 +87,18 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `advice` – Kaoru gives you an advice...like a fortune cookie
 - [x] `quote` - Kaoru tells you a quote from someone famouse
 - [x] `gossip` – @ up to 5 people to hear some gossip Kaoru picked up!
-- [ ] `bless` – Kaoru blesses you with good vibes
+- [x] `bless` – Kaoru blesses you with good vibes
 - [ ] `song`- Kaoru gives you a song based on the vibe u want
 
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
+
+### ˎˊ˗ Love Letters
+- Send a random “love letter” from the bot to a user or a group.
+- You can either make it dramatic, funny, or even embarrassing.
+- Example Love Letters:
+  * "Dearest {user}, your presence lights up the room brighter than a million stars. I shall never forget our first taco Tuesday together."
+  * "Roses are red, violets are blue, I can't stop thinking about the sandwich we shared last Tuesday. Your sandwich sharing skills are legendary."
 ### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
@@ -112,13 +120,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - Example Rewards:
   * "Congratulations! You've unlocked a limited-time badge: 'Professional Procrastinator.'"
 
-### ˎˊ˗ Love Letters
-- Send a random “love letter” from the bot to a user or a group.
-- You can either make it dramatic, funny, or even embarrassing.
-- Example Love Letters:
-  * "Dearest {user}, your presence lights up the room brighter than a million stars. I shall never forget our first taco Tuesday together."
-  * "Roses are red, violets are blue, I can't stop thinking about the sandwich we shared last Tuesday. Your sandwich sharing skills are legendary."
-
 ### ˎˊ˗ Random Question
 - Ask users a random fun or deep question.
 - It could be lighthearted or introspective.
@@ -129,8 +130,9 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 
 ### ˎˊ˗ Would you rather
 - This can be a hilarious and engaging command.
+- daily one question by default (if set up) -> 365 Questions, and everyday is a different one
 - Give users a “would you rather” question and let them pick an option.
-- You can also make the choices fun, outrageous, or absurd.
+- 2 Choices -> React to vote (bot reacts with two server emotes by default)
 - Example Questions:
   * "Would you rather fight 100 duck-sized horses or one horse-sized duck?"
   * "Would you rather always be 10 minutes late or always be 20 minutes early?"
