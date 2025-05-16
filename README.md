@@ -89,6 +89,8 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `gossip` – @ up to 5 people to hear some gossip Kaoru picked up!
 - [x] `bless` – Kaoru blesses you with good vibes
 - [ ] `song`- Kaoru gives you a song based on the vibe u want
+- [ ] `this or that` - Kaoru asks you a question and you can choose between two buttons to (maybe buttons or reactions with emotes?)
+- [ ] `truth or dare` - Kaoru asks u truth or dare, with two buttons you can chose. (Embeded with buttons)
 
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
