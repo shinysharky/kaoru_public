@@ -26,14 +26,16 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ---
 
 ### ˎˊ˗ Kaoru Only  
-`Color: discord.Color.from_rgb(245, 115, 160)`  
-- [x] `hi` – Kaoru says hi~  
+`Color: discord.Color.from_rgb(245, 115, 160)` 
+- [x] `rules` – prebuild rules with a verify reaction so users can verify
+- [x] `hi` – Kaoru says hi~
 - [x] `simp` – Kaoru simps for someone  
 - [x] `gremlin` – Unleashes gremlin energy  
 - [x] `stare` – staring into your soul  
 - [x] `explode` – Kaoru *goes boom*
 - [x] `emotes` - shows Kaorus emotes (for testing)
 - [x] `aura` - show how the aura system works
+- [ ] `reaction roles` - roles for users to identify -> not modular for now
 
 ---
 
