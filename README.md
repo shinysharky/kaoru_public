@@ -28,7 +28,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ### ˎˊ˗ Kaoru Only  
 `Color: discord.Color.from_rgb(245, 115, 160)` 
 - [x] `auto role` – Kaoru automatically gives new joined users the role "verify"
-- [ ] `rules` – prebuild rules with a verify reaction so users can verify
+- [x] `rules` – prebuild rules with a verify reaction so users can verify
 - [x] `hi` – Kaoru says hi~
 - [x] `simp` – Kaoru simps for someone  
 - [x] `gremlin` – Unleashes gremlin energy  
