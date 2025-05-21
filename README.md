@@ -29,6 +29,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 `Color: discord.Color.from_rgb(245, 115, 160)` 
 - [x] `auto role` – Kaoru automatically gives new joined users the role "verify"
 - [x] `rules` – prebuild rules with a verify reaction so users can verify
+- [x] `color roles` - roles for users to identify -> not modular for now, only admins can use and the roles need to exist in the server already
 - [x] `hi` – Kaoru says hi~
 - [x] `simp` – Kaoru simps for someone  
 - [x] `gremlin` – Unleashes gremlin energy  
@@ -36,7 +37,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `explode` – Kaoru *goes boom*
 - [x] `emotes` - shows Kaorus emotes (for testing)
 - [x] `aura` - show how the aura system works
-- [x] `color roles` - roles for users to identify -> not modular for now, only admins can use and the roles need to exist in the server already
 
 ---
 
