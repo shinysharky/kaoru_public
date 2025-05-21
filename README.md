@@ -27,7 +27,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 
 ### ˎˊ˗ Kaoru Only  
 `Color: discord.Color.from_rgb(245, 115, 160)` 
-- [x] `auto role` – Kaoru automatically gives new joined users the role "verify"
+- [x] (`auto role` – Kaoru automatically gives new joined users the role "verify") -> no command
 - [x] `rules` – prebuild rules with a verify reaction so users can verify
 - [x] `color roles` - roles for users to identify -> not modular for now, only admins can use and the roles need to exist in the server already
 - [x] `hi` – Kaoru says hi~
