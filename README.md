@@ -36,7 +36,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `explode` – Kaoru *goes boom*
 - [x] `emotes` - shows Kaorus emotes (for testing)
 - [x] `aura` - show how the aura system works
-- [ ] `reaction roles` - roles for users to identify -> not modular for now
+- [x] `color roles` - roles for users to identify -> not modular for now, only admins can use and the roles need to exist in the server already
 
 ---
 
