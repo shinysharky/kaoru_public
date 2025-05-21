@@ -36,7 +36,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `stare` – staring into your soul  
 - [x] `explode` – Kaoru *goes boom*
 - [x] `emotes` - shows Kaorus emotes (for testing)
-- [x] `aura` - show how the aura system works
 
 ---
 
