@@ -90,6 +90,13 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `quote` - Kaoru tells you a quote from someone famouse
 - [x] `gossip` – @ up to 5 people to hear some gossip Kaoru picked up!
 - [x] `bless` – Kaoru blesses you with good vibes
+- [x] `chroma` - Kaoru gives you a pastel color based on your energy
+- [ ] `vibecheck` - Kaoru scants your vibe
+- [ ] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you flowers
+- [ ] `dreamjob` - Kaoru tells you your fantasy dream job
+- [ ] `catfact` - Kaoru gives you a cat fact
+- [ ] `catify` - Kaoru transforms you into a cat
+- [ ] `kitten` - random cat picture or gif
 - [ ] `song`- Kaoru gives you a song based on the vibe u want
 - [ ] `this or that` - Kaoru asks you a question and you can choose between two buttons to (maybe buttons or reactions with emotes?)
 - [ ] `truth or dare` - Kaoru asks u truth or dare, with two buttons you can chose. (Embeded with buttons)
@@ -97,10 +104,73 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
 
+### ˎˊ˗ chroma
+Kaoru gives you a pastel color based on your energy
+Randomly or by user ID hash, pick from aesthetic hex codes and send as an embed with a color block and name:
+
+🌸 “Your aura today is soft blush (#fddde6).”
+
 ### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
 - Bonus: Add emojis or gifs using a simple API or file set.
+
+### ˎˊ˗!vibecheck
+Kaoru scans your aura and gives a soft message
+Randomly picks one:
+
+“You radiate sleepy cat energy today.” 😴
+
+“Your aura is 72% marshmallow.” 🍡
+
+“Chaotic good, pastel edition.” 🌈
+
+### ˎˊ˗ !flower
+Kaoru gives you a flower of the day
+You can make a little dictionary like:
+
+flowers = {
+  "rose": "for love and courage 🌹",
+  "lavender": "for calm and grace 💜",
+  "daisy": "for friendship and cheer 🌼"
+}
+Embed with a little floral emoji + image + Kaoru's gentle message
+
+### ˎˊ˗ !tea
+“Kaoru brews you a cup of tea...”
+Kaoru sends an embed with a soft pastel background image of a tea set and a gentle message.
+
+Example Output:
+
+☕ “Here, have some tea. You look like you needed this.”
+Embed color: #d4c4b0
+
+### ˎˊ˗ !dreamjob
+Kaoru tells you what your aesthetic dream job would be.
+Random from:
+
+“Cloud sculptor ☁️”
+
+“Moss gardener 🌿”
+
+“Star librarian 🌌”
+
+“Bubble tea alchemist 🧋”
+
+### ˎˊ˗ !catfact
+Kaoru gives you a random wholesome or fun cat fact 🧠
+Sample facts:
+
+“Did you know? Cats have 32 muscles in each ear!”
+
+“Your cat thinks of you as a big clumsy cat. It’s love, promise.”
+
+### ˎˊ˗ !catify @user
+Turn a user into a cat persona:
+
+Senpai has been turned into a sleepy tabby cat named Muffin 🐾
+
+Bonus: Let users roll their “cat type” — sleepy, gremlin, elegant, chaos, soft, mysterious, etc.
 
 ### ˎˊ˗ jokes
 - What it does: Greets users, responds to simple messages like "how are you?" or "tell me a joke".
