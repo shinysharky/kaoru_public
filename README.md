@@ -91,7 +91,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `gossip` – @ up to 5 people to hear some gossip Kaoru picked up!
 - [x] `bless` – Kaoru blesses you with good vibes
 - [x] `chroma` - Kaoru gives you a pastel color based on your energy
-- [ ] `vibecheck` - Kaoru scants your vibe
+- [x] `vibecheck` - Kaoru scants your vibe
 - [ ] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you flowers
 - [ ] `dreamjob` - Kaoru tells you your fantasy dream job
 - [ ] `catfact` - Kaoru gives you a cat fact
@@ -114,16 +114,6 @@ Randomly or by user ID hash, pick from aesthetic hex codes and send as an embed 
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
 - Bonus: Add emojis or gifs using a simple API or file set.
-
-### ˎˊ˗!vibecheck
-Kaoru scans your aura and gives a soft message
-Randomly picks one:
-
-“You radiate sleepy cat energy today.” 😴
-
-“Your aura is 72% marshmallow.” 🍡
-
-“Chaotic good, pastel edition.” 🌈
 
 ### ˎˊ˗ !flower
 Kaoru gives you a flower of the day
