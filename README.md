@@ -105,6 +105,10 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
 
 ### ˎˊ˗ mood
+- welcome message for new people joining
+- automatically sends when joining
+
+### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
 - Bonus: Add emojis or gifs using a simple API or file set.
