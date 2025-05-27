@@ -104,7 +104,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
 
-### ˎˊ˗ mood
+### ˎˊ˗ welcome message
 - welcome message for new people joining
 - automatically sends when joining
 
