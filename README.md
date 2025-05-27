@@ -100,6 +100,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [ ] `song`- Kaoru gives you a song based on the vibe u want
 - [ ] `this or that` - Kaoru asks you a question and you can choose between two buttons to (maybe buttons or reactions with emotes?)
 - [ ] `truth or dare` - Kaoru asks u truth or dare, with two buttons you can chose. (Embeded with buttons)
+- [ ] `moonphase` - Kaoru tells you about the current moonphase
 
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
@@ -108,6 +109,19 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - welcome message for new people joining
 - automatically sends when joining
 
+### ˎˊ˗ moon phase
+- Kaoru tells you the current moon phase
+- maybe some special message based on the moon phase?
+
+### ˎˊ˗ daily
+- Kaoru sends a random cute picture or GIF (animals, aesthetic art, etc.).
+- This could be integrated with a curated list or a cute API.
+
+### ˎˊ˗ palette
+- Kaoru gives you a small, random aesthetic color palette (e.g., #FFD1DC, #B0E0E6, #C3E6CB). 
+- Example: "Your aesthetic palette for today: a soft blend of #F0F8FF (AliceBlue) and #E6E6FA (Lavender)! 🎨
+- user can say !palette green for a green palette etc.
+- !palette special for special ones
 ### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
