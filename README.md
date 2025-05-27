@@ -104,12 +104,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
 
-### ˎˊ˗ chroma
-Kaoru gives you a pastel color based on your energy
-Randomly or by user ID hash, pick from aesthetic hex codes and send as an embed with a color block and name:
-
-🌸 “Your aura today is soft blush (#fddde6).”
-
 ### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
