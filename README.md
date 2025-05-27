@@ -93,7 +93,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `chroma` - Kaoru gives you a pastel color based on your energy
 - [x] `vibecheck` - Kaoru scants your vibe
 - [x] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you one!
-- [ ] `dreamjob` - Kaoru tells you your fantasy dream job
+- [x] `dreamjob` - Kaoru looks into your soul and tells you your dream job! You can use this command every 24h
 - [ ] `catfact` - Kaoru gives you a cat fact
 - [ ] `catify` - Kaoru transforms you into a cat
 - [ ] `kitten` - random cat picture or gif
@@ -135,18 +135,6 @@ Example Output:
 
 ☕ “Here, have some tea. You look like you needed this.”
 Embed color: #d4c4b0
-
-### ˎˊ˗ !dreamjob
-Kaoru tells you what your aesthetic dream job would be.
-Random from:
-
-“Cloud sculptor ☁️”
-
-“Moss gardener 🌿”
-
-“Star librarian 🌌”
-
-“Bubble tea alchemist 🧋”
 
 ### ˎˊ˗ !catfact
 Kaoru gives you a random wholesome or fun cat fact 🧠
