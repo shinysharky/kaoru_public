@@ -92,7 +92,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `bless` – Kaoru blesses you with good vibes
 - [x] `chroma` - Kaoru gives you a pastel color based on your energy
 - [x] `vibecheck` - Kaoru scants your vibe
-- [ ] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you flowers
+- [x] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you one!
 - [ ] `dreamjob` - Kaoru tells you your fantasy dream job
 - [ ] `catfact` - Kaoru gives you a cat fact
 - [ ] `catify` - Kaoru transforms you into a cat
@@ -108,17 +108,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
 - Bonus: Add emojis or gifs using a simple API or file set.
-
-### ˎˊ˗ !flower
-Kaoru gives you a flower of the day
-You can make a little dictionary like:
-
-flowers = {
-  "rose": "for love and courage 🌹",
-  "lavender": "for calm and grace 💜",
-  "daisy": "for friendship and cheer 🌼"
-}
-Embed with a little floral emoji + image + Kaoru's gentle message
 
 ### ˎˊ˗ !tea
 “Kaoru brews you a cup of tea...”
