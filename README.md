@@ -94,13 +94,14 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `vibecheck` - Kaoru scants your vibe
 - [x] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you one!
 - [x] `dreamjob` - Kaoru looks into your soul and tells you your dream job! You can use this command every 24h
+- [ ] `moonphase` - Kaoru tells you about the current moonphase -> `color = discord.Color.from_rgb(143,118,168)`
 - [ ] `catfact` - Kaoru gives you a cat fact
 - [ ] `catify` - Kaoru transforms you into a cat
 - [ ] `kitten` - random cat picture or gif
 - [ ] `song`- Kaoru gives you a song based on the vibe u want
 - [ ] `this or that` - Kaoru asks you a question and you can choose between two buttons to (maybe buttons or reactions with emotes?)
 - [ ] `truth or dare` - Kaoru asks u truth or dare, with two buttons you can chose. (Embeded with buttons)
-- [x] `moonphase` - Kaoru tells you about the current moonphase -> `color = discord.Color.from_rgb(143,118,168)`
+
 
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
