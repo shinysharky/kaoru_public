@@ -208,4 +208,5 @@ If you have any questions, bugs or ideas feel free to contact me on discord:
 - [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
 - [Python 3.11 Docs](https://docs.python.org/3.11/)
 - [Discord Bot Git](https://github.com/Rapptz/discord.py)
+- [Moonphase Pictures](https://www.astropixels.com/moon/phases/phasesgallery.html)
 - GIfs and Pictures are usually from Pinterest, I do not own any of them and credits go to the creators !
