@@ -95,6 +95,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you one!
 - [x] `dreamjob` - Kaoru looks into your soul and tells you your dream job! You can use this command every 24h
 - [x] `moonphase` - Kaoru tells you about the current moonphase -> `color = discord.Color.from_rgb(143,118,168)`
+- [ ] `spirit_animal` - Spirit Animal with maybe a personality Test
 - [ ] `catfact` - Kaoru gives you a cat fact
 - [ ] `catify` - Kaoru transforms you into a cat
 - [ ] `kitten` - random cat picture or gif
@@ -110,9 +111,9 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - welcome message for new people joining
 - automatically sends when joining
 
-### ˎˊ˗ moon phase
-- Kaoru tells you the current moon phase
-- maybe some special message based on the moon phase?
+### ˎˊ˗ Spirit Animal
+- Same as Dream Job but with Animals
+- Maybe a Personality Test with Discord Embed Buttons(?)
 
 ### ˎˊ˗ daily
 - Kaoru sends a random cute picture or GIF (animals, aesthetic art, etc.).
@@ -123,6 +124,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - Example: "Your aesthetic palette for today: a soft blend of #F0F8FF (AliceBlue) and #E6E6FA (Lavender)! 🎨
 - user can say !palette green for a green palette etc.
 - !palette special for special ones
+  
 ### ˎˊ˗ mood
 - What it does: Asks users how they feel, then replies with an encouraging message.
 - Skills learned: Natural language (basic), customizing responses.
