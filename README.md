@@ -201,6 +201,14 @@ Bonus: Let users roll their “cat type” — sleepy, gremlin, elegant, chaos, 
   * "Sing a song in VC!"
   * "Share a meme in the chat!"
 
+<!-- Contributing -->
+## ✧˚ 🍨 Contributing
+
+<a href="https://github.com/shinysharky">
+  <img src="![image](https://github.com/user-attachments/assets/373fb03f-66ec-4185-9067-8847f1a0fbfa)
+" width="100" height="100" />
+</a>
+
 ## ⋆.ೃ࿔🌸*:･ Questions and Support
 
 If you have any questions, bugs or ideas feel free to contact me on discord:
