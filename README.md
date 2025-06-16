@@ -108,7 +108,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
 
-### ˎˊ˗ championshic commands
+### ˎˊ˗ championship commands
 - !champ shows the next championship and location based on local time
 - kaoru pings @﹒₍₎﹕racer﹗‧₊˚ 10mins before the next champ, showing time, location
 ### ˎˊ˗ welcome message
