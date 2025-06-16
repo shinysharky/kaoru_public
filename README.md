@@ -95,7 +95,8 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `flower` - everyone deserves flowers! Send flowers to a specific user or let Kaoru gift you one!
 - [x] `dreamjob` - Kaoru looks into your soul and tells you your dream job! You can use this command every 24h
 - [x] `moonphase` - Kaoru tells you about the current moonphase -> `color = discord.Color.from_rgb(143,118,168)`
-- [ ] `spirit_animal` - Spirit Animal with maybe a personality Test
+- [x] `spirit_animal` - Take a personality test to get your spirit animal
+- [ ] `champ` - shows the next champ time in star stable online based on local time
 - [ ] `catfact` - Kaoru gives you a cat fact
 - [ ] `catify` - Kaoru transforms you into a cat
 - [ ] `kitten` - random cat picture or gif
@@ -107,6 +108,9 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
 
+### ˎˊ˗ championshic commands
+- !champ shows the next championship and location based on local time
+- kaoru pings @﹒₍₎﹕racer﹗‧₊˚ 10mins before the next champ, showing time, location
 ### ˎˊ˗ welcome message
 - welcome message for new people joining
 - automatically sends when joining
