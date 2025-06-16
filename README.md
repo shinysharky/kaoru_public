@@ -208,7 +208,7 @@ Bonus: Let users roll their “cat type” — sleepy, gremlin, elegant, chaos, 
   <img src="https://www.pngplay.com/wp-content/uploads/13/Sad-Cat-Memes-PNG-Photos.png" width="100" height="100" />
 </a>
 <a href="https://github.com/peaemer">
-  <img src="https://www.pngplay.com/wp-content/uploads/13/Sad-Cat-Memes-PNG-Clipart-Background.png" width="100" height="100"/>
+  <img src="https://www.pngplay.com/wp-content/uploads/12/Crying-Cat-Meme-PNG-Photos.png" width="100" height="100"/>
 </a>
 
 ## ⋆.ೃ࿔🌸*:･ Questions and Support
