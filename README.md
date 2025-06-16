@@ -205,8 +205,10 @@ Bonus: Let users roll their “cat type” — sleepy, gremlin, elegant, chaos, 
 ## ✧˚ 🍨 Contributing
 
 <a href="https://github.com/shinysharky">
-  <img src="![image](https://github.com/user-attachments/assets/373fb03f-66ec-4185-9067-8847f1a0fbfa)
-" width="100" height="100" />
+  <img src="https://www.pngplay.com/wp-content/uploads/13/Sad-Cat-Memes-PNG-Photos.png" width="100" height="100" />
+</a>
+<a href="https://github.com/peaemer">
+  <img src="https://www.pngplay.com/wp-content/uploads/13/Sad-Cat-Memes-PNG-Clipart-Background.png" width="100" height="100"/>
 </a>
 
 ## ⋆.ೃ࿔🌸*:･ Questions and Support
