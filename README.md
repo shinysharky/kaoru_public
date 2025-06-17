@@ -102,7 +102,7 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [ ] `this or that` - Kaoru asks you a question and you can choose between two buttons to (maybe buttons or reactions with emotes?)
 - [ ] `truth or dare` - Kaoru asks u truth or dare, with two buttons you can chose. (Embeded with buttons)
 
-### ˎˊ˗ gaming
+### ˎˊ˗ Gaming
 - [x] `champ` - shows the next champ time in star stable online based on local time
 - [x] `champday` - add a day of the week the get all championships times of the day (!champday Monday)
 - [x] `championship` - event, Kaoru reminds users with a specific role 10mins before the next championship
