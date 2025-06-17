@@ -97,7 +97,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `moonphase` - Kaoru tells you about the current moonphase -> `color = discord.Color.from_rgb(143,118,168)`
 - [x] `spirit_animal` - Take a personality test to get your spirit animal
 - [ ] `catfact` - Kaoru gives you a cat fact
-- [ ] `catify` - Kaoru transforms you into a cat
 - [ ] `kitten` - random cat picture or gif
 - [ ] `song`- Kaoru gives you a song based on the vibe u want
 - [ ] `this or that` - Kaoru asks you a question and you can choose between two buttons to (maybe buttons or reactions with emotes?)
@@ -107,7 +106,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `champ` - shows the next champ time in star stable online based on local time
 - [x] `champday` - add a day of the week the get all championships times of the day (!champday Monday)
 - [x] `championship` - event, Kaoru reminds users with a specific role 10mins before the next championship
-- [ ] 
 
 ---
 ## ˚˖𓍢🌷✧˚.🎀⋆ Future Projects
@@ -115,10 +113,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 ### ˎˊ˗ welcome message
 - welcome message for new people joining
 - automatically sends when joining
-
-### ˎˊ˗ Spirit Animal
-- Same as Dream Job but with Animals
-- Maybe a Personality Test with Discord Embed Buttons(?)
 
 ### ˎˊ˗ daily
 - Kaoru sends a random cute picture or GIF (animals, aesthetic art, etc.).
@@ -135,15 +129,6 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - Skills learned: Natural language (basic), customizing responses.
 - Bonus: Add emojis or gifs using a simple API or file set.
 
-### ˎˊ˗ !tea
-“Kaoru brews you a cup of tea...”
-Kaoru sends an embed with a soft pastel background image of a tea set and a gentle message.
-
-Example Output:
-
-☕ “Here, have some tea. You look like you needed this.”
-Embed color: #d4c4b0
-
 ### ˎˊ˗ !catfact
 Kaoru gives you a random wholesome or fun cat fact 🧠
 Sample facts:
@@ -151,13 +136,6 @@ Sample facts:
 “Did you know? Cats have 32 muscles in each ear!”
 
 “Your cat thinks of you as a big clumsy cat. It’s love, promise.”
-
-### ˎˊ˗ !catify @user
-Turn a user into a cat persona:
-
-Senpai has been turned into a sleepy tabby cat named Muffin 🐾
-
-Bonus: Let users roll their “cat type” — sleepy, gremlin, elegant, chaos, soft, mysterious, etc.
 
 ### ˎˊ˗ jokes
 - What it does: Greets users, responds to simple messages like "how are you?" or "tell me a joke".
