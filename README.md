@@ -96,6 +96,8 @@ Add Kaoru to your server now [here](https://discord.com/oauth2/authorize?client_
 - [x] `dreamjob` - Kaoru looks into your soul and tells you your dream job! You can use this command every 24h
 - [x] `moonphase` - Kaoru tells you about the current moonphase -> `color = discord.Color.from_rgb(143,118,168)`
 - [x] `spirit_animal` - Take a personality test to get your spirit animal
+- [ ] `water` - reminds a specific role in a specific channel every 30mins to drink water (!water #channel @role)
+- [ ] `stopwater` - stops water command
 - [ ] `catfact` - Kaoru gives you a cat fact
 - [ ] `kitten` - random cat picture or gif
 - [ ] `song`- Kaoru gives you a song based on the vibe u want
